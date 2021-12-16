@@ -1,6 +1,15 @@
 FortTest - Version 0.1-dev
 
 
+TODO:
+Death detection
+Add all guns
+Loot chest generation
+Game start
+Building
+
+
+
 
 --------
 LICENSES
